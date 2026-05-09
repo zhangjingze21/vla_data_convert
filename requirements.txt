@@ -1,0 +1,6 @@
+# Core dependencies for conversion scripts in this repository
+lerobot
+numpy>=1.24
+opencv-python>=4.8.0
+tyro>=0.9.10
+tqdm>=4.66
